@@ -1,0 +1,5 @@
+include ':strifeve'
+
+
+include ':androidcore'
+project(':androidcore').projectDir = new File(settingsDir, "/../AndroidCore_OpenTouch/androidcore")

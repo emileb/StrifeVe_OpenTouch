@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StriveVE.iml" filepath="$PROJECT_DIR$/StriveVE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AndroidCore_OpenTouch/androidcore/androidcore.iml" filepath="$PROJECT_DIR$/../AndroidCore_OpenTouch/androidcore/androidcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strifeve/strifeve.iml" filepath="$PROJECT_DIR$/strifeve/strifeve.iml" />
+    </modules>
+  </component>
+</project>
